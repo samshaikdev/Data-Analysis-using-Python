@@ -1,2 +1,2 @@
 # Data-Analysis-using-Python
-data analysis by python of sales in a festival
+data analysis using python of sales in a festival
